@@ -1,3 +1,32 @@
+
+# 🍽️ Recipe App
+
+A full-featured recipe management application built with **React**, allowing users to **view**, **add**, **edit**, **delete**, and **favorite** recipes. It supports persistent data using `localStorage`.
+
+---
+
+## 🚀 Features
+
+- 📝 Add, edit, and delete recipes
+- 📌 Mark/unmark recipes as favorites
+- 📂 Data persisted in browser using `localStorage`
+- 📱 Fully responsive UI using Tailwind CSS
+- 📦 Uses React Context API for global state
+
+---
+
+
+## 🔧 Tech Stack
+
+- React.js (Vite or CRA)
+- React Router DOM
+- React Hook Form
+- React Toastify
+- Tailwind CSS
+- LocalStorage
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
